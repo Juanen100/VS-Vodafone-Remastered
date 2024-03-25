@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Back again for more huh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright... Let's make things more interesting shall we?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'm giving you a misses limit... Let's say 35 misses."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you manage to get over that limit, I will not hessitate to shutdown your computer ;)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I will also shutdown your computer if you exit the game, either via Alt F4, Task Manager or even via the Pause Menu."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "However, I will not shutdown your computer if you die and exit from there, I'm gonna be kinda generous :)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You're still on time to quit if you don't want to, are you sure you wanna do this?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YEAH"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright then :)"
+		}
+	]
+}

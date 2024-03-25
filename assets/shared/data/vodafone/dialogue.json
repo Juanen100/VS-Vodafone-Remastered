@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello, are you interested in our internet services?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bap bop bip boop bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "vod",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAT?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeh bep baap bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU'RE USING ORANGE ALREADY???!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That gives me more reason to ask you, do you want to change your internet provider? Orange is pretty bad and unsecure"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beeep skrred bap bop breap bool skid biiip pob gapo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So... If I win at a rap battle you will switch to Vodafone?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "vod",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LET'S RAP THEN!"
+		}
+	]
+}

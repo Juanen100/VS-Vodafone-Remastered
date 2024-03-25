@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="epilepticBG.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sdg instancia 10000" x="0" y="0" width="1357" height="588"/>
+	<SubTexture name="sdg instancia 10001" x="0" y="0" width="1357" height="588"/>
+	<SubTexture name="sdg instancia 10002" x="0" y="588" width="1357" height="588"/>
+	<SubTexture name="sdg instancia 10003" x="0" y="588" width="1357" height="588"/>
+</TextureAtlas>
